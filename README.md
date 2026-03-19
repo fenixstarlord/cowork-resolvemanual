@@ -36,6 +36,7 @@ This plugin gives Claude deep knowledge of DaVinci Resolve's features, workflows
 | **fusion** | Fusion page — compositing, green screen, tracking, masks, particles, 3D |
 | **fairlight** | Fairlight page — audio mixing, EQ, dynamics, noise reduction, loudness |
 | **deliver** | Deliver page — export presets, codecs, render queue, DCP/IMF |
+| **reel-name-patterns** | Reel name extraction pattern syntax, operators, and examples for the "Assist using reel names" Pattern field |
 
 ### Commands
 
