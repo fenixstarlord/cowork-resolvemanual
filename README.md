@@ -20,7 +20,7 @@ This plugin gives Claude deep knowledge of DaVinci Resolve's features, workflows
 
 2. **Install the plugin**:
    ```
-   claude plugin install davinci-resolve@<marketplace-name>
+   claude plugin install resolvemanual@<marketplace-name>
    ```
 
 ## What's Included
@@ -39,7 +39,7 @@ This plugin gives Claude deep knowledge of DaVinci Resolve's features, workflows
 
 ### Commands
 
-- `/resolve:help <topic>` — Ask about any DaVinci Resolve topic and get a structured, step-by-step answer with manual references
+- `/resolvemanual:help <topic>` — Ask about any DaVinci Resolve topic and get a structured, step-by-step answer with manual references
 
 ## Example Questions
 
