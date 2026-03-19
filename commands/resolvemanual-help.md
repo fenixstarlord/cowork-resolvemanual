@@ -1,6 +1,6 @@
 ---
-name: resolve:help
-description: "Get help with any DaVinci Resolve topic. Usage: /resolve:help <topic>"
+name: resolvemanual:help
+description: "Get help with any DaVinci Resolve topic. Usage: /resolvemanual:help <topic>"
 args: topic
 ---
 
